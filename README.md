@@ -1,15 +1,17 @@
-# 🚀 Hi, I'm Amir Hossein Donyaei
+# 🚀 Amir Hossein Donyaei
 
-### **Backend Architect | Django Expert | Scalable Systems Specialist**
+### Backend Developer | Django
 
-💡 Passionate about **building high-performance, scalable, and secure backend systems**.  
-🎯 Obsessed with **clean code, efficiency, and solving real-world problems**.
+I enjoy building simple, reliable backend systems.  
+Focused on clean code, maintainability, and practical solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/elasticsearch-%2300BFBF.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/django%20rest%20framework-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
@@ -19,8 +21,7 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/bash%20script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" />
 </p>
 
@@ -32,7 +33,7 @@
 
 ---
 
-## 📍 Reach out to me
+## 📍 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cactuspydon@gmail.com) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AmirHosseinDonyaei)
+- Email: [cactuspydon@gmail.com](mailto:cactuspydon@gmail.com)
+- Telegram: https://t.me/AmirHosseinDonyaei
