@@ -1,39 +1,58 @@
-# 🚀 Amir Hossein Donyaei
+# 👨‍💻 Amir Hossein Donyaei
 
-### Backend Developer | Django
+### Backend Developer | Python & Django
 
-I enjoy building simple, reliable backend systems.  
-Focused on clean code, maintainability, and practical solutions.
+I architect and implement **robust, scalable, and maintainable** backend systems with a deep focus on **clean code, pragmatic design, and solving real-world business challenges**.  
+My expertise lies in transforming complex requirements into efficient, production-grade APIs and services that are both reliable and easy to evolve.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Technical Stack
+
+**Backend & Framework**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+**Data & Caching**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infrastructure & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+**Tools & Scripting**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎯 Professional Focus
+
+- **API-Centric Development:** Designing clean, well-documented, and versioned RESTful APIs.
+- **System Architecture:** Building modular, decoupled services that scale gracefully.
+- **Performance & Optimization:** Profiling, query optimization, and implementing caching strategies.
+- **Code Quality:** Advocating for test-driven development (TDD), code reviews, and maintainable codebases.
+- **Production Readiness:** Implementing monitoring, logging, error tracking, and deployment automation.
+
+---
+
+## 📬 Let's Connect & Collaborate
+
+I'm always open to discussing interesting projects, backend architecture challenges, or new opportunities.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/elasticsearch-%2300BFBF.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/django%20rest%20framework-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4" alt="Celery" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" />
+  <a href="mailto:cactuspydon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cactuspydon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/AmirHosseinDonyaei">
+    <img src="https://img.shields.io/badge/Telegram-@AmirHosseinDonyaei-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamariumCode&show_icons=true&count_private=true&hide=stars&theme=dark)
-
----
-
-## 📍 Contact
-
-- Email: [cactuspydon@gmail.com](mailto:cactuspydon@gmail.com)
-- Telegram: https://t.me/AmirHosseinDonyaei
+*Looking for a backend developer who values simplicity, robustness, and gets things done? Let's talk.*
